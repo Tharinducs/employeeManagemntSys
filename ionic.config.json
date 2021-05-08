@@ -1,0 +1,7 @@
+{
+  "name": "employeeManagemntSys",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
